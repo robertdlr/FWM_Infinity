@@ -1,0 +1,4 @@
+baseURL = 'https://whatllitbe.co.za/'
+languageCode = 'en-gb'
+title = 'FWM Infinity'
+theme = 'hugo-scroll'
