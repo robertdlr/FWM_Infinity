@@ -34,7 +34,7 @@ theme = 'hugo-scroll'
     title = "FWM Infinity"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "FWM Infinity"
+    description = "What did the Mafia discover in 2025?"
 
     # Show a menu of languages available
     language_menu = false
