@@ -6,6 +6,8 @@ defaultContentLanguage = "en"
 title = 'FWM Infinity'
 theme = 'hugo-scroll'
 
+enableEmoji = true
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -108,3 +110,6 @@ theme = 'hugo-scroll'
 #     weight = 20
 #     contentDir = "content/de"
 #     languageName = "Deutsch"
+
+[markup.goldmark.renderer]
+unsafe = true
