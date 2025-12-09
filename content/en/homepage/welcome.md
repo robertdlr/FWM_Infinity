@@ -7,4 +7,6 @@ Welcome to my little experiment! We all love hearing what our FWM friends are di
 
 I want to do a deep dive on your whiskies and the distilleries that made them. It's a vehicle for me to hone my Google-fu, learn some web stuff and build my whisky knowledge. Hopefully it's at least in some way entertaining for you to follow along.
 
+(Just in case you're on your phone and was wondering about all the blue-ness on the front page - it's actually a pretty cool photo of an empty FWM bottle. Turn your phone sideways and scroll back up to see it. Still learning some web stuff...)
+
 So without further ado, here's your FWM 2025 Infinity bottle, in the making...
